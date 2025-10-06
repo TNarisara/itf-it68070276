@@ -8,6 +8,7 @@ nav {
 }
 
 body {
+    background-color: rgb(255, 1055, 97);
     margin: 0;
 }
 
@@ -34,5 +35,6 @@ body {
 .header-text p {
     margin: 0;
 }
+
 
 
