@@ -46,7 +46,7 @@ button {
   border: none;
   cursor: pointer;
   border-radius: var(--button_radius);
-  background: var(--button_outline_color);
+  background: rgb(242, 227, 198);
 }
 
 .button_top {
@@ -70,6 +70,7 @@ button:active .button_top {
   /* Push the button downwards when pressed */
   transform: translateY(0);
 }
+
 
 
 
