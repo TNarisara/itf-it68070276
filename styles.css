@@ -1,5 +1,5 @@
 nav {
-    background-color: rgb(253, 209, 220);
+    background-color: rgb(128, 239, 128);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,7 +8,7 @@ nav {
 }
 
 body {
-    background-color: rgb(242, 227, 198);
+    background-color: rgb(253, 209, 220);
     margin: 0;
 }
 
@@ -35,6 +35,7 @@ body {
 .header-text p {
     margin: 0;
 }
+
 
 
 
