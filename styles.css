@@ -4,11 +4,10 @@ nav {
     justify-content: space-between;
     align-items: center;
     color: white;
-    padding: 10px 20px;
+    padding: 20px;
 }
 
 body {
-    background-color: #F8F8F8;
     margin: 0;
 }
 
@@ -35,4 +34,5 @@ body {
 .header-text p {
     margin: 0;
 }
+
 
