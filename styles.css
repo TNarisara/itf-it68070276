@@ -15,7 +15,6 @@ body {
 
 h1 {
     font-family: 'Bitcount Prop Single Ink', monospace;
-    font-size: 2rem;
 
 .container {
     display: grid;
@@ -75,6 +74,7 @@ button:active .button_top {
   /* Push the button downwards when pressed */
   transform: translateY(0);
 }
+
 
 
 
