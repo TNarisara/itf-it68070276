@@ -8,13 +8,9 @@ nav {
 }
 
 body {
-    font-family: 'Sarabun', sans-serif;
     background-color: rgb(242, 227, 198);
     margin: 0;
 }
-
-h1 {
-    font-family: 'Bitcount Prop Single Ink', monospace;
 
 .container {
     display: grid;
@@ -74,6 +70,7 @@ button:active .button_top {
   /* Push the button downwards when pressed */
   transform: translateY(0);
 }
+
 
 
 
