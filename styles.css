@@ -12,4 +12,22 @@ body {
 .container {
     display: grid;
     grid-template-columns: 50% 50%;
+
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-text h2,
+.header-text p {
+    margin: 0;
 }
